@@ -4,6 +4,17 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+# Maven wrapper files
+mvnw
+mvnw.cmd
+
+# Maven build output directory
+target/
+
+# Maven wrapper directory
+.mvn/wrapper
+
+
 ### STS ###
 .apt_generated
 .classpath
