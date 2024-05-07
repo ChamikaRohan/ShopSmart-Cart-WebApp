@@ -5,11 +5,12 @@ target/
 !**/src/test/**/target/
 
 # Maven wrapper files
-mvnw
-mvnw.cmd
+/mvnw
+/mvnw.cmd
 
 # Maven build output directory
-target/
+/target/
+/pom.xml
 
 # Maven wrapper directory
 .mvn/wrapper
